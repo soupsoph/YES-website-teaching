@@ -68,7 +68,7 @@ Plotly.newPlot(
 
 <button style="background-color: blue; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;" onclick="window.open('https://i.pinimg.com/564x/09/e3/fd/09e3fd9d887049ec0d3ad40027855b66.jpg')">Welcome!!</button>
 
-<img src="https://media4.giphy.com/media/hyJsZO8lGXFVnQP4ic/200w.gif?cid=6c09b952vfablwt8hsvru54wnipxsupyl6hhw0mq2rvdszzt&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Animated GIF">
+<img src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-413.gif">
 
 <img src="https://extension.harvard.edu/wp-content/uploads/sites/8/2023/05/Vincent-Liu.jpg" alt="Vincent Liu" style="width: 100px;">
 
@@ -99,3 +99,5 @@ Plotly.newPlot(
 </style>
 
 <img src="https://media1.tenor.com/m/JnO3hAf6R2oAAAAC/brawl-stars-brawl-stars-emoji.gif" alt="Brawl Stars GIF">
+
+
