@@ -17,7 +17,7 @@
   margin: { t: 0 } } );
 
 <h1 style="text-align: center; font-size: 50px;">
-  <span style="color: red;">Wavelength vs Reflectance</span
+  <span style="color: red;">Reflectance vs Wavelength</span
 </h1>
 
 </script>
